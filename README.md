@@ -1,2 +1,0 @@
-# blog-comments
-blog-comments
